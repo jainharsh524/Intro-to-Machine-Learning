@@ -14,57 +14,11 @@ This repository covers:
 - ✅ **Matplotlib** – Basic plotting and visualization
 - ✅ **Seaborn** – Advanced statistical plotting
 - ✅ **Scikit-learn** – Machine learning models and tools
-
-### 🤖 Machine Learning Fundamentals:
-- 📘 What is ML and its types
-- 📊 Data Preprocessing techniques
-- 📈 Basic supervised and unsupervised models
-- 🧠 Model training, evaluation, and improvement
-
----
-
-## 📁 Sample Notebooks
-
-Each section includes:
-
-* ✅ Real-world use cases
-* ✅ Clean code with explanations
-* ✅ Exercises and small datasets
-
----
-
 ## 💡 Ideal For:
 
 * Beginners in Machine Learning
 * Students preparing for ML tests or interviews
 * Anyone brushing up on Python ML libraries
-
----
-
-## 🔗 Datasets Used
-
-* Titanic Dataset – [Kaggle Link](https://www.kaggle.com/c/titanic/data)
-* California Housing – `sklearn.datasets`
-* Iris Dataset – `sklearn.datasets`
-* Tips Dataset – `seaborn.load_dataset('tips')`
-
----
-
-## 🛠️ Getting Started
-
-### Requirements:
-
-Install all libraries with:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
----
-
-## 🤝 Contributing
-
-Got improvements or new notebooks to share? Pull requests are welcome!
 
 ---
 
